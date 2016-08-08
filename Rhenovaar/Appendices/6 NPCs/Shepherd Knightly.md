@@ -1,4 +1,5 @@
 # Shepherd Knightly
+
 1. [Description](#description)
 2. [Stats](#stats)
 
@@ -20,7 +21,7 @@ Armor Class: 16 (+3 Dex, +3 Studded Leather, armor check penalty -1)
 Base Attack/Grapple: +5/+7
 Attack: +8 Longsword (+1) (1d8+3, crit 19-20/x2, 4 lb., one-handed, slashing,
 "Knightly" is inscribed near the hilt),
-+8 Lt. Crossbow (1d8, crit x3, 100 ft. 3 lb., piercing)
++8 Lt. Crossbow (1d8, crit 19-20/x2, 80 ft., 4 lb., piercing)
 Special Abilities: Favored Enemy (Human), Track, Wild Empathy,
 Combat Choice (Archery), Endurance, Animal Companion,
 Favored Enemy (Undead)
