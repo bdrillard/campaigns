@@ -1,4 +1,6 @@
 # Sorsevari
+1. [Description](#description)
+2. [Mechanics](#mechanics)
 
 ## Description
 
