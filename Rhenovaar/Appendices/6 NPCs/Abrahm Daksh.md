@@ -23,8 +23,7 @@ Attack: +10 Greatsword (+1) (2d6+6, 19-20/x2, 8 lb., two-handed, slashing),
 +7 Hvy. Crossbow (1d10, crit 19-20/x2, 120 ft., 8 lb., piercing)
 Special Abilities: N/A
 Saves: Fort +7, Ref +3, Will +5
-Abilities: Str 16, Dex 14, Con 16, 
-Int 12, Wis 14, Cha 7
+Abilities: Str 16, Dex 14, Con 16, Int 12, Wis 14, Cha 7
 Skills: Climb 4+3, Intimidate 8-1, Jump 3+3, Sense Motive 6+2
 Feats: Iron Will, Weapon Focus (Greatsword) +1 Attack, Power Attack, Combat Expertise, 
 Weapon Specialization (Greatsword) +2 Damage

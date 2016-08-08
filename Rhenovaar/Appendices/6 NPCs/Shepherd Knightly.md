@@ -8,7 +8,7 @@ A Brosti Special Detective, Shepherd Knightly scours the night-beat with a pench
 
 Any scene sufficiently strange is likely to have Shepherd and Abrahm as visitors sooner rather than later. Shepherd himself is always recognizable by the Catchfoot tobacco pipe which he often absent-mindedly allows to extinguish, his long, wide-collared trench coat, and his wide-brimmed brown leather hat, in which he keeps a black feather from his late animal companion.
 
-Shepherd speaks Brosti and Ogrish. For matters of a particularly arcane nature, Shepherd and Abrahm will defer to the considerable experience of Luna Klerken, diviner extraordinaire.
+Shepherd speaks Brosti and Ogrish. For matters of a particularly arcane nature, Shepherd and Abrahm will defer to the considerable skills of Luna Klerken, diviner extraordinaire.
 
 ## Stats
 ```
@@ -26,8 +26,7 @@ Special Abilities: Favored Enemy (Human), Track, Wild Empathy,
 Combat Choice (Archery), Endurance, Animal Companion,
 Favored Enemy (Undead)
 Saves: Fort +5, Ref +7, Will +5
-Abilities: Str 14, Dex 17, Con 13, 
-Int 14, Wis 15, Cha 10
+Abilities: Str 14, Dex 17, Con 13, Int 14, Wis 15, Cha 10
 Skills: Climb 5+2, Heal 7+2, Knowledge (Local) 7+2, Knowledge (History) 7+2, 
 Listen 7+2, Move Silently 7+3, Search 7+2, Spot 7+2, Survival 5+2, Use Rope 5+3
 Feats: Rapid Shot, Point Blank Shot, Precise Shot, Iron Will
