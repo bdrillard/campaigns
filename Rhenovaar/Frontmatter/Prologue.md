@@ -1,4 +1,6 @@
 # Prologue
+1. [A Continent Forsaken](#a-continent-forsaken)
+2. [Deep Roots](#deep-roots)
 
 ## A Continent Forsaken
 
