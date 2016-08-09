@@ -13,20 +13,27 @@ Luna is always recognizable by the Brosti Peacekeeper patch sewn on the left sho
 
 ## Stats
 ```
-Luna Klerken
+Luna Klerken (Seer Adept)
 Medium Human, Wizard 6
-Hit Dice: 6d4 (18 hp)
-Initiative:
-Speed:
+Hit Dice: 6d4 (14 hp)
+Initiative: +0
+Speed: 
 Armor Class: 
 Base Attack/Grapple:
 Attack:
-Special Abilities: Scribe Scroll, School Specialization Divination (Forbids Evocation),
-Familiar
+Special Abilities: Scribe Scroll, School Specialization Divination
+(Forbids Evocation), Familiar
 Saves: Fort +2, Ref +2, Will +8
 Abilities: Str 9, Dex 11, Con 10, Int 19, Wis 16, Cha 13
-Skills:
-Feats: Comprehend Sorsevari
+Skills: Concentration 8, Decipher Script 4+4, Knowledge (Arcana) 9+4,
+Knowledge (History) 8+4, Sense Motive 8+3, Spellcraft 9+4
+Feats: Comprehend Sorsevari, Spell Focus (Divination), Spell Penetration,
+Extend Spell, Brew Potion
 Languages: Brosti, Sorsevari, Chandra Elvish
 Spells: 4 0th, 4 1st, 4 2nd, 3 3rd, 1 4th
+1st: Comprehend Languages, Identify, Expeditious Retreat, Detect Secret Doors
+Mage Armor
+2nd: Detect Thoughts, Locate Object, Fox's Cunning, See Invisibility
+3rd: Clairaudience/Clairvoyance, Arcane Sight, Suggestion, Nondetection
+4th: Scrying, Charm Monster
 ```
