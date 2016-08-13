@@ -13,7 +13,8 @@ The characters begin exhibiting the symptoms of mild hypothermia, that is, they 
 **Listen, DC 12**
 
 > From a greyed face, you barely discern:
-> > I can carry on no longer...
+> > "I can carry on no longer..."
+>
 > The man falls face first into the snow.
 
 **Survival, DC 10**

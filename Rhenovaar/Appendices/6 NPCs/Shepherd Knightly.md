@@ -32,5 +32,5 @@ Listen 7+2, Move Silently 7+3, Search 7+2, Spot 7+2, Survival 5+2, Use Rope 5+3
 Feats: Rapid Shot, Point Blank Shot, Precise Shot, Iron Will
 Languages: Brosti, Ogrish
 Ranger Spells Per Day: 1 1st (Caster Level 2)
-(This spell is almost always prepared as Cure Lt. Wounds)
+Spells: 1st Cure Lt. Wounds, Mage Armor
 ```
