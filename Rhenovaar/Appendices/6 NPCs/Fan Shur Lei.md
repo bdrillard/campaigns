@@ -19,7 +19,7 @@ Initiative +2
 Speed: 30 ft
 Armor Class: 16 (+2 Dex, +3 Studded Leather, +1 Buckler, armor check penalty -2)
 Base Attack/Grapple: +2/+4
-Attack: +5 Composite Shortbow (+1) (1d6+3, x3, 70ft, 2 lb., piercing)
+Attack: +5 Composite Shortbow (+1) (1d6+3, x3, 70ft, 2 lb., piercing),
 +5 MW Scimitar (1d6+2, 18-20/x2, 4 lb., slashing)
 Special Abilities: Cold Endurance (Cold Protection +1)
 Saves: Fort +4, Ref +2, Will +2
