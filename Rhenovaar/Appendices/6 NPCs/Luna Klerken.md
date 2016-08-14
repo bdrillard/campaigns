@@ -11,18 +11,19 @@ After ascending to Centraal's esteemed Academae Arcanix, she excelled in the art
 
 Luna is always recognizable by the Brosti Peacekeeper patch sewn on the left shoulder of her otherwise unremarkable blue Adept's robes, as well as the constant faint odor of censer smoke. Her demeanor is detached and single-minded. When forced to interact with others, she will usually designate a single person with whom she will speak exclusively, and even then either only in curt phrases, or information-packed monologues which one couldn't possibly fully grasp in one hearing. Only with Abrahm and Shepherd does she invariably answer a call to assist, and does she show even the slightest hint of a sense of perverse humor. Having considerable reason to doubt the existence of free will, _she thinks the implications of nondeterminism are really rather funny_.
 
+Luna specializes in Divination, with Necromancy and Evocation being her forbidden schools.
+
 ## Stats
 ```
-Luna Klerken (Seer Adept)
-Medium Human, Wizard 6
+Luna Klerken
+Medium Human, Wizard (Seer) 6
 Hit Dice: 6d4 (14 hp)
 Initiative: +0
 Speed: 
 Armor Class: 
 Base Attack/Grapple:
 Attack:
-Special Abilities: Scribe Scroll, School Specialization Divination
-(Forbids Evocation), Familiar
+Special Abilities: Scribe Scroll, Familiar
 Saves: Fort +2, Ref +2, Will +8
 Abilities: Str 9, Dex 11, Con 10, Int 19, Wis 16, Cha 13
 Skills: Concentration 8, Decipher Script 4+4, Knowledge (Arcana) 9+4,

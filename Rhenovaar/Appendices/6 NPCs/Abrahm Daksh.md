@@ -11,6 +11,7 @@ Abrahm's priorities are innocents, his partner, and lastly himself. He is quick 
 Abrahm is always recognizable for the fact that he wears the largest suit of Enforcer armor in Centraal, and the contemplative manner in which he folds his hands on the pommel of his greatsword, whose tip often rests on the cobble streets of Centraal.
 
 ## Stats
+
 ```
 Abrahm Daksh
 Medium Half-Orc, Fighter 5
