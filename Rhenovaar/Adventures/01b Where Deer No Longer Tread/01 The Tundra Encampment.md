@@ -26,3 +26,26 @@ If the party decides to carry their yet nameless, fallen comrade, within a short
 **Spot, DC 13**
 
 > Something accompanies the light faintly glowing just beyond the hill: a wispy smoke. As you crest the wide embankment, a collection of leather walled yurts, lit in a welcoming orange glow, lies displayed before you.
+
+## The Shuri Encampment
+
+**Knowledge (Local), DC 11**
+
+The encampment below is typical of the Shuri nomads, a people indigenous to the permafrost of Dar'kva. They are a proud hunting and riding culture, that while suspicious of outsiders, can be quite hospitable should they feel reason. _Shuri_ is their ethnic language, but due to their extensive hunting and trading patterns, they may additionally speak _Brostisch_ or _Dar'kvakiya_ to varying degrees.
+
+**Spot, DC 14**
+
+Some 100 yards opposite you, sitting upon a tall earthen pot, is the darkened figure of a man in rugged frontier furs and leather. As you step over the top of the hill, he stands slowly, his hands resting upon a shortbow.
+
+> No choices apparent, you continue down the hill.
+> > Fā, dù fā shé! ~ Stop! Stop there (emphatic)!
+> The nomad calls out to you, his bow readied. 
+
+[Fān Shùr Lé](https://github.com/bdrillard/campaigns/blob/master/Rhenovaar/Appendices/6%20NPCs/Fan%20Shur%20Lei.md) is initially [**Unfriendly**](http://www.d20srd.org/srd/skills/diplomacy.htm) towards the party, eyeing them suspiciously from a distance. Fān's disposition changes under the following circumstances:
+
+* If any member of the party is ethnically Shuri or speaks Shuri, Fān will become immediately helpful.
+* Upon seeing the dire condition of the party, Fān will become **Indifferent**.
+* If any member of the party has chosen to carry the incapacitated man, the party will receive a circumstantial +15 to a diplomacy check when asking for help.
+* If any member of the party attempts subterfuge (moving silently, hiding along the embankment, etc), and Fān discovers this, he will revert to **Unfriendly**.
+
+If Fān is at least **Indifferent**, he will allow the party to enter the camp to seek provisions. If Fān is at **Friendly**, his demeanor will be more hospitable, and will offer the party food and better clothing.
