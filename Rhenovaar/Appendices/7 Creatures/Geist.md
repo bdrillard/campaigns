@@ -1,7 +1,7 @@
 # Geist
 
 1. [Description](#description)
-2. [Creating a Giest](#creating-a-geist)
+2. [Creating a Geist](#creating-a-geist)
 3. [Sample Geists](#sample-geists)
   1. [Frostgeist](#frostgeist)
 
