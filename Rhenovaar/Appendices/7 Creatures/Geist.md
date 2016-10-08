@@ -33,7 +33,7 @@ A geist loses all feats and special abilities previously held by the base creatu
 
 All geists also have the following powers:
 * _Manifestation (Su)_: A geist dwells in some unknown, lonely dimension, and so cannot be regularly affected by anything on the Material Plane. However, when a geist manifests, it enters the Material Plane and becomes visible, but [incorporeal](http://www.dandwiki.com/wiki/SRD:Incorporeal). A manifested geist can only be harmed by [magic weapons](http://www.dandwiki.com/wiki/SRD:Magic_Weapon), or by [spells](http://www.dandwiki.com/wiki/SRD:Creature_Spells_and_Powers#Spells), with a 50% chance to ignore any damage from a corporeal source. A manifested geist can pass through solid objects at will, and its own attacks pass through armor. A manifested geist always moves silently. A manifested geist can strike with its touch attack, but with no other weapons.
-* _Rejuvenation (Su)_: A geist cannot be destroyed 
+* _Rejuvenation (Su)_: A geist cannot be destroyed easily. Any geist defeated in combat attempts a level check (1d20 + geist's HD) against DC 16. If successful, a geist will reconstitute itself above its component. The only way to assuredly destroy a geist is to destroy its component.
 * _Spell-like Abilities (Su)_: At will - [Ghost Sound](http://www.dandwiki.com/wiki/SRD:Ghost_Sound), [Silent Image](http://www.dandwiki.com/wiki/Silent_image), [Mage Hand](http://www.dandwiki.com/wiki/Mage_hand).
 
 Additionally:
