@@ -43,9 +43,8 @@ Fān will indicate to [Hilda Hewnstone](https://github.com/bdrillard/campaigns/b
 Although at this juncture, the PCs have little money, Hilda has the following inventory:
 
 Weapons | Cost | Dmg (S) | Dmg (M) | Crit | Rng | Weight | Type | Quantity
-:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
-**Simple Weapons** | | | | | | |
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
+**Simple Weapons** | | | | | | |
 _Light Melee_ | | | | | | |
   Dagger | 2gp | 1d3 | 1d4 | 19-20x2 | 10 ft. | 1 lb. | Piercing | 8
   Sickle | 6gp | 1d4 | 1d6 | x2 | – | 2 lb. | Slashing | 4
@@ -58,9 +57,7 @@ _Ranged Weapons_ | | | | | | |
   Crossbow, light | 50gp | 1d6 | 1d8 | 19-20/x2 | 80 ft | 4 lb. | Piercing | 2
     Bolts, crossbow (10) | 1gp | – | – | – | – | 1 lb. | Piercing | 4
   Javelin | 1gp | 1d4 | 1d6 | x2 | 30 ft. | 2 lb. | Piercing | 8
-:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
 **Martial Weapons** | | | | | | |
---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
 _Light Melee_ | | | | | | |
   Axe, throwing | 8gp | 1d4 | 1d6 | x2 | 10 ft. | 2 lb. | Slashing | 3
   Hammer, light | 1gp | 1d3 | 1d4 | x2 | 20 ft. | 2 lb. | Bludgeoning | 3
