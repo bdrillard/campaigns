@@ -52,9 +52,9 @@ _One-Handed Melee_ | | | | | | |
   Shortspear | 1gp | 1d4 | 1d6 | x2 | 20 ft. | 3 lb. | Piercing | 6
 _Two-Handed Melee_ | | | | | | |
   Quarterstaff | 5sp | 1d4/1d4 | 1d6/1d6 | x2 | – | 4 lb. | Bludgeoning | 1
-  Spear | 2gp | 1d6 | 1d8 | x3 | 20 ft. | 6 lb. | Piercing | 2
+  Spear | 4gp | 1d6 | 1d8 | x3 | 20 ft. | 6 lb. | Piercing | 2
 _Ranged Weapons_ | | | | | | |
-  Crossbow, light | 35gp | 1d6 | 1d8 | 19-20/x2 | 80 ft | 4 lb. | Piercing | 2
+  Crossbow, light | 50gp | 1d6 | 1d8 | 19-20/x2 | 80 ft | 4 lb. | Piercing | 2
     Bolts, crossbow (10) | 1gp | – | – | – | – | 1 lb. | Piercing | 4
   Javelin | 1gp | 1d4 | 1d6 | x2 | 30 ft. | 2 lb. | Piercing | 8
 **Martial Weapons** | | | | | | |
@@ -62,8 +62,44 @@ _Light Melee_ | | | | | | |
   Axe, throwing | 8gp | 1d4 | 1d6 | x2 | 10 ft. | 2 lb. | Slashing | 3
   Hammer, light | 1gp | 1d3 | 1d4 | x2 | 20 ft. | 2 lb. | Bludgeoning | 3
   Handaxe | 6gp | 1d4 | 1d6 | x3 | – | 3 lb. | Slashing | 2
-  Warhammer | 12gp | 1d6 | 1d8 | x3 | – | 5 lb. | Bludgeoning | 1
+  Warhammer | 22gp | 1d6 | 1d8 | x3 | – | 5 lb. | Bludgeoning | 1
 
 Armor | Cost | Bonus | Max Dex | Check | Spell Failure | 30 ft. Sp | 20 ft. Sp | Weight | Quantity
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
- 
+**Light Armor** | | | | | | | | |
+  Padded | 10gp | +1 | +8 | 0 | 5% | 30 ft. | 20 ft. | 10 lb. | 2
+  Leather | 15 gp | +2 | +6 | 0 | 10% | 30 ft. | 20 ft. | 15 lb. | 2
+  Chain shirt | 200gp | +4 | +4 | -2 | 20% | 30 ft. | 20 ft. | 25 lb. | 1
+**Medium Armor**| | | | | | | | |
+  Hide | 20gp | +3 | +4 | -3 | 20% | 20 ft. | 15 ft. | 25 lb. | 4
+**Shields**
+  Shield, light wooden | 20gp | +1 | – | -1 | 5% | – | – | 5 lb. | 2
+
+Goods | Cost | Weight | Quantity
+--- | :---: | :---: | ---:
+**Mundane** | | |
+  Backpack (empty) | 2gp | 2 lb. | 8
+  Bedroll | 1sp | 5 lb. | 7
+  Blanket, winter | 5sp | 3 lb. | 7
+  Caltrops | 3gp | 2 lb. | 3
+  Crowbar | 2gp | 5 lb. | 1
+  Firewood (per day) | 2gp | 20 lb. | 8
+  Flask (empty) | 3cp | 1.5 lb. | 6
+  Flint 'n Steel | 1gp | – | 4
+  Hammer | 5sp | 2 lb. | 4
+  Lantern, hooded | 9gp | 2 lb. | 5
+  Mug, clay | 2cp | 1 lb. | 10
+  Oil (1-pint flask) | 5sp | 1 lb. | 3
+  Pick, miner's | 5gp | 10 lb. | 1
+  Piton | 3sp | 0.5 lb. | 7
+  Rations, trail (per day) | 5sp | 1 lb. | 14
+  Rope, hempen (50ft) | 3gp | 10 lb. | 1
+  Shovel | 2gp | 8 lb. | 2
+  Tent | 15gp | 20 lb. | 3
+  Torch | 2cp | 1 lb. | 5
+  Waterskin | 1 gp | 4 lb. | 7
+**Special** | | |
+  Acid (flask) | 20gp | 1 lb. | 1
+  Smokestick | 25gp | 0.5 lb. | 1
+
+## Feliks Czesław
