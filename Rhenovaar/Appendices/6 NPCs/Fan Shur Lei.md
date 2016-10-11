@@ -5,7 +5,9 @@
 
 ## Description
 
-Fān Shùr Lé is the youngest grandson of Tī Shùr Lé, Elder of the Lé Shuri. Fān Shùr defends his people with an unparalleled loyalty, and has taken on the responsibility of their well-being in its totality. Although Fān Shùr's chief priority is his tribe, for those to whom Fān Shùr feels indebted, perhaps out of an act of selfless aid to the tribe, Fān Shùr will induct them practically as family, and will go to great lengths (insofar as it does not put the broader tribe at significant risk) to help his friends. Fān Shùr is a consummate rider of the Dar'kvaki winter plains, with indispensable knowledge of the permafrost and even of the Dar'kvaki. 
+> This young man of perhaps 14 or 15 bears an unusual lightness in his eyes, and warmth in his smile. He speaks with a kind of eagerness, as though speaking itself were entirely new and exciting to him.
+
+Fān Shùr Lé is the youngest grandson of Tī Shùr Lé, Elder of the Lé Shuri. Fān defends his people with an unparalleled loyalty, and has taken on the responsibility of their well-being in its totality. Although Fān's chief priority is his tribe, for those to whom Fān feels indebted, Fān will treat them as family. Fān is a consummate rider of the Dar'kvaki winter plains, with indispensable knowledge of the permafrost.
 
 ## Stats
 
