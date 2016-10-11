@@ -43,7 +43,7 @@ Fān will indicate to [Hilda Hewnstone](https://github.com/bdrillard/campaigns/b
 Although at this juncture, the PCs have little money, Hilda has the following inventory:
 
 Weapons | Cost | Dmg (S) | Dmg (M) | Crit | Rng | Weight | Type | Quantity
---- | :---: | :---: | :---: | :---: | :---: | :---: | ---:
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
 **Simple Weapons** | | | | | | |
 _Light Melee_ | | | | | | |
   Dagger | 2gp | 1d3 | 1d4 | 19-20x2 | 10 ft. | 1 lb. | Piercing | 8
