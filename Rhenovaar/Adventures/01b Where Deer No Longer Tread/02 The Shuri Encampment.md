@@ -38,7 +38,7 @@ A young girl peers from underneath a pile of furs. Her eyes are inquisitive and 
 
 Fān will indicate to [Hilda Hewnstone](https://github.com/bdrillard/campaigns/blob/master/Rhenovaar/Appendices/6%20NPCs/Hilda%20Hewnstone.md) for some provisions, as well as to [Feliks Czesław](https://github.com/bdrillard/campaigns/blob/master/Rhenovaar/Appendices/6%20NPCs/Feliks%20Czeslaw.md), the wandering Łödzisch wizard.
 
-## Hilda Hewnstone
+### Hilda Hewnstone
 
 Although at this juncture, the PCs have little money, Hilda has the following inventory:
 
@@ -102,4 +102,4 @@ Goods | Cost | Weight | Quantity
   Acid (flask) | 20gp | 1 lb. | 1
   Smokestick | 25gp | 0.5 lb. | 1
 
-## Feliks Czesław
+### Feliks Czesław
