@@ -42,8 +42,29 @@ Fān will indicate to [Hilda Hewnstone](https://github.com/bdrillard/campaigns/b
 
 Although at this juncture, the PCs have little money, Hilda has the following inventory:
 
-Simple Weapons | Cost | Dmg (S) | Dmg (M) | Crit | Rng | Weight | Type
-| --- |
-| _One-Handed Melee_ |
+Weapons | Cost | Dmg (S) | Dmg (M) | Crit | Rng | Weight | Type | Quantity
+--- | :---: | :---: | :---: | :---: | :---: | :---: | ---:
+**Simple Weapons** | | | | | | |
+_Light Melee_ | | | | | | |
+  Dagger | 2gp | 1d3 | 1d4 | 19-20x2 | 10 ft. | 1 lb. | Piercing | 8
+  Sickle | 6gp | 1d4 | 1d6 | x2 | – | 2 lb. | Slashing | 4
+_One-Handed Melee_ | | | | | | |
+  Shortspear | 1gp | 1d4 | 1d6 | x2 | 20 ft. | 3 lb. | Piercing | 6
+_Two-Handed Melee_ | | | | | | |
+  Quarterstaff | 5sp | 1d4/1d4 | 1d6/1d6 | x2 | – | 4 lb. | Bludgeoning | 1
+  Spear | 2gp | 1d6 | 1d8 | x3 | 20 ft. | 6 lb. | Piercing | 2
+_Ranged Weapons_ | | | | | | |
+  Crossbow, light | 35gp | 1d6 | 1d8 | 19-20/x2 | 80 ft | 4 lb. | Piercing | 2
+    Bolts, crossbow (10) | 1gp | – | – | – | – | 1 lb. | Piercing | 4
+  Javelin | 1gp | 1d4 | 1d6 | x2 | 30 ft. | 2 lb. | Piercing | 8
+--- | :---: | :---: | :---: | :---: | :---: | --- | ---
+**Martial Weapons** | | | | | | |
+_Light Melee_ | | | | | | |
+  Axe, throwing | 8gp | 1d4 | 1d6 | x2 | 10 ft. | 2 lb. | Slashing | 3
+  Hammer, light | 1gp | 1d3 | 1d4 | x2 | 20 ft. | 2 lb. | Bludgeoning | 3
+  Handaxe | 6gp | 1d4 | 1d6 | x3 | – | 3 lb. | Slashing | 2
+  Warhammer | 12gp | 1d6 | 1d8 | x3 | – | 5 lb. | Bludgeoning | 1
 
-
+Armor | Cost | Bonus | Max Dex | Check | Spell Failure | 30 ft. Sp | 20 ft. Sp | Weight | Quantity
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ---:
+ 
