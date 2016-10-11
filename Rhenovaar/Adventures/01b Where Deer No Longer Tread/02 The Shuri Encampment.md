@@ -43,7 +43,7 @@ Fān will indicate to [Hilda Hewnstone](https://github.com/bdrillard/campaigns/b
 Although at this juncture, the PCs have little money, Hilda has the following inventory:
 
 Simple Weapons | Cost | Dmg (S) | Dmg (M) | Crit | Rng | Weight | Type
---- | --- | --- | --- | --- | --- | --- | ---
+---
 | _One-Handed Melee_ |
 
 
