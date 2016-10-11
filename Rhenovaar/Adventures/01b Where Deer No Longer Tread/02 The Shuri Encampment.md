@@ -57,7 +57,6 @@ _Ranged Weapons_ | | | | | | |
   Crossbow, light | 35gp | 1d6 | 1d8 | 19-20/x2 | 80 ft | 4 lb. | Piercing | 2
     Bolts, crossbow (10) | 1gp | – | – | – | – | 1 lb. | Piercing | 4
   Javelin | 1gp | 1d4 | 1d6 | x2 | 30 ft. | 2 lb. | Piercing | 8
---- | :---: | :---: | :---: | :---: | :---: | --- | ---
 **Martial Weapons** | | | | | | |
 _Light Melee_ | | | | | | |
   Axe, throwing | 8gp | 1d4 | 1d6 | x2 | 10 ft. | 2 lb. | Slashing | 3
