@@ -70,9 +70,9 @@ Armor | Cost | Bonus | Max Dex | Check | Spell Failure | 30 ft. Sp | 20 ft. Sp |
   Padded | 10gp | +1 | +8 | 0 | 5% | 30 ft. | 20 ft. | 10 lb. | 2
   Leather | 15 gp | +2 | +6 | 0 | 10% | 30 ft. | 20 ft. | 15 lb. | 2
   Chain shirt | 200gp | +4 | +4 | -2 | 20% | 30 ft. | 20 ft. | 25 lb. | 1
-**Medium Armor**| | | | | | | | |
+**Medium Armor** | | | | | | | | |
   Hide | 20gp | +3 | +4 | -3 | 20% | 20 ft. | 15 ft. | 25 lb. | 4
-**Shields**
+**Shields** | | | | | | | | |
   Shield, light wooden | 20gp | +1 | – | -1 | 5% | – | – | 5 lb. | 2
 
 Goods | Cost | Weight | Quantity
