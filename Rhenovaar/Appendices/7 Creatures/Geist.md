@@ -19,7 +19,7 @@ One other curious aspect of geists is that they do not seem to natively inhabit 
 
 A geist loses all feats and special abilities previously held by the base creature. All other statistics remain the same except as noted here.
 
-* **Size and Type**: The creature’s type changes to [Undead](http://www.dandwiki.com/wiki/SRD:Undead_Type) . Do not recalculate the creature’s base attack bonus, saves, or skill points. It gains the incorporeal subtype. Size is unchanged. In addition, a geist may have an [elemental type](http://www.dandwiki.com/wiki/SRD:Elemental_Type), with the same immunities and vulnerabilities as an [Elemental](http://www.dandwiki.com/wiki/SRD:Elemental) of the same type, and with any of its attacks having the same type as though transformed by the [Energy Substitution](http://www.dandwiki.com/wiki/SRD:Energy_Substitution) metamagic feat. By default, a geist's attacks have the negative energy type.
+* **Size and Type**: The creature’s type changes to [Undead](http://www.dandwiki.com/wiki/SRD:Undead_Type). Do not recalculate the creature’s base attack bonus, saves, or skill points. It gains the incorporeal subtype. Size is unchanged. In addition, a geist may have an [elemental type](http://www.dandwiki.com/wiki/SRD:Elemental_Type), with the same immunities and vulnerabilities as an [Elemental](http://www.dandwiki.com/wiki/SRD:Elemental) of the same type, and with any of its attacks having the same type as though transformed by the [Energy Substitution](http://www.dandwiki.com/wiki/SRD:Energy_Substitution) metamagic feat. By default, a geist's attacks have the negative energy type.
 * **Hit Dice**: All current and future Hit Dice become d12s.
 * **Speed**: Geists have a fly speed of 30 feet, unless the base creature has a higher fly speed, with perfect maneuverability.
 * **Armor Class**: When the geist manifests (see below), it gains a deflection bonus equal to its Charisma modifier or +1, whichever is higher.
@@ -52,7 +52,7 @@ Additionally:
 ```
 Frostgeist
 Medium Undead (Augmented Humanoid, Cold, Incorporeal)
-Hit Dice: 3d12 (19hp)
+Hit Dice: 3d12 (19 hp)
 Initiative: +3
 Speed: Fly 30 ft. (perfect)
 Armor Class: 15 (+3 Dex, +2 deflection)
@@ -69,5 +69,4 @@ Environment: Any Cold
 Organization: Always solitary
 Challenge Rating: 3
 Treasure: None
-Alignment: Any
 ```

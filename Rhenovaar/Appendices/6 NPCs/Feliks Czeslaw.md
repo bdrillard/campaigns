@@ -24,12 +24,12 @@ Speed: 20 ft
 Armor Class: 12 (+2 Dex)
 Base Attack/Grapple: +1/+1
 Attack: +1 Quarterstaff (1d6, x2, 4 lb., Bludgeoning),
-+3 Light Crossbow (1d8, 19-20/x2, 80 ft., 4 lb., Piercing)
+        +3 Light Crossbow (1d8, 19-20/x2, 80 ft., 4 lb., Piercing)
 Special Abilities: Scribe Scroll, Familiar
 Saves: Fort +3, Ref +0, Will +4
 Abilities: Str 10, Dex 14, Con 12, Int 17, Wis 15, Cha 14
 Skills: Concentration 5+1, Knowledge (Arcana) 5+3, 
-Knowledge (History) 5+3, Spellcraft 5+3, Spot 2+2
+        Knowledge (History) 5+3, Spellcraft 5+3, Spot 2+2
 Feats: Comprehend Sorsevari, Extend Spell
 Languages: Łödziskie, Dar'kvaki, Brostisch, Sorsevari
 Spells Per Day: 4 0th, 3 1st, 1 2nd
