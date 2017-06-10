@@ -3,7 +3,7 @@
 1. [Description](#description)
 2. [Creating a Geist](#creating-a-geist)
 3. [Sample Geists](#sample-geists)
-  1. [Frostgeist](#frostgeist)
+    1. [Frostgeist](#frostgeist)
 
 ## Description
 

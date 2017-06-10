@@ -3,9 +3,9 @@
 1. [Description](#description)
 2. [Creating a Numbered Create](#create-a-numbered-create)
 3. [Sample Numbered](#sample-numbered)
-  1. [Numbered Black Bear](#numbered-black-bear)
-  2. [Numbered Deer](#numbered-deer)
-  3. [Numbered Wolf](#numbered-wolf)
+    1. [Numbered Black Bear](#numbered-black-bear)
+    2. [Numbered Deer](#numbered-deer)
+    3. [Numbered Wolf](#numbered-wolf)
 
 ## Description
 
