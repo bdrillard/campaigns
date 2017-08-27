@@ -1,0 +1,3 @@
+# Preface to the Compendium Daemonium
+
+The Compendium Daemonium forms the basic plot-hook for side quests related to Edsgar Herzhalter and Erwin Grafenheim, two paranormal researchers. This supplemental section describes the various quests Edsgar will extend to the players towards for the purpose of completing his own research into Rhenovaars more contemporary supernatural denizens. The collection of these quests can be considered a _Hunt System_, in which the players are required to capture the various ghouls, geists, aberrations and otherwise abominations which Herzhalter requires for his research, the rewards being primarily magical items and monies the adventurers would not normally have reason to gain.
