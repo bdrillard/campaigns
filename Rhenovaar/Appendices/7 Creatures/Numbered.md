@@ -20,7 +20,7 @@ A Numbered retains all extraordinary (Ex) abilities and feats previously held by
 * **Size and Type**: The creature's type changes to [Aberration](http://dandwiki.com/wiki/SRD:Aberration). Size is unchanged.
 * **Attack and Full Attack**: A Numbered creature gains 2 claws and a bite if it did not previously possess the attacks.
 * **Special Attacks**: A Numbered gains the following special attack:
-  * _Disturbing Vocalizations (Su)_: A Numbered creature announces its presence with distressing howls and clicks, even ones which may have been previously physically impossible for the creature. Infrequently, these sounds even ebb into the domain of human utterances, striking the listener as uncannily close to maddened cackling. Every round, any creature within audible range must make a Will save (DC 10 + Numbered's HD), or be [shaken](http://dandwiki.com/wiki/SRD:Shaken) for 1d4 rounds. Any creature who succeeds against this attack is subsequently immune to the attack when from the same Numbered.
+    * _Disturbing Vocalizations (Su)_: A Numbered creature announces its presence with distressing howls and clicks, even ones which may have been previously physically impossible for the creature. Infrequently, these sounds even ebb into the domain of human utterances, striking the listener as uncannily close to maddened cackling. Every round, any creature within audible range must make a Will save (DC 10 + Numbered's HD), or be [shaken](http://dandwiki.com/wiki/SRD:Shaken) for 1d4 rounds. Any creature who succeeds against this attack is subsequently immune to the attack when from the same Numbered.
 * **Special Qualities**: A Numbered gains Darkvision (60 ft.) if the base creature did not previously have it.
 * **Feats**: Despite its tortured form, a Numbered is unnaturally quick, vicious, and resilient. It gains _Improved Initiative_, _Weapon Focus (Bite)_, and _Improved Natural Armor_.
 * **Challenge Rating**: Same as the base creature +1.
@@ -49,7 +49,7 @@ Feats: Endurance, Improved Initiative, Improved Natural Armor, Run,
        Weapon Focus (Bite)
 Languages: N/A
 Environment: Any
-Organization: Solitary, Set (2-4)
+Organization: Singleton, Set (2-4)
 Challenge Rating: 3
 Treasure: None
 
@@ -57,7 +57,7 @@ Treasure: None
 
 ### Numbered Deer
 
-Note: Deer possesses nearly the same statistics as the [Pony](http://dandwiki.com/wiki/SRD:Pony).
+Note: Deer possess nearly the same statistics as the [Pony](http://dandwiki.com/wiki/SRD:Pony).
 
 ```
 Numbered Deer
@@ -76,7 +76,7 @@ Skills: Listen +5, Spot +5
 Feats: Improved Initiative, Improved Natural Armor, Weapon Focus (Bite)
 Languages: N/A
 Environment: Any
-Organization: Solitary, Set (2-4)
+Organization: Singleton, Set (2-4)
 Challenge Rating: 1
 Treasure: None
 ```
@@ -97,10 +97,10 @@ Special Qualities: Darkvision (60 ft.), Scent
 Saves: Fort +2, Ref +2, Will +2
 Abilities: Str 13, Dex 15, Con 15, Int 2, Wis 12, Cha 6
 Skills: Hide +2, Listen +3, Move Silently +3, Spot +3, Survival +1
-Feats: Improved Initiative, Improved Natural Armor Weapon Focus (Bite)
+Feats: Improved Initiative, Improved Natural Armor, Weapon Focus (Bite)
 Languages: N/A
 Environment: Any
-Organization: Solitary, Set (2-4)
+Organization: Singleton, Set (2-4)
 Challenge Rating: 2
 Treasure: None
 ```

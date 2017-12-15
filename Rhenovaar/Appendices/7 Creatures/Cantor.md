@@ -10,7 +10,7 @@
 >
 > Georg Cantor: mathematician and developer of set theory.
 
-Cantors are bizarre aberrations that, by processes not well ascertained, emerge from areas soaked in particular forms of corrupting arcane energy. Although their amorphous forms can spontaneously resemble that of the incorporeal undead in that their flesh appears to undulate, shift in and out of translucence, and at times defy gravity, they are indeed composed of biological material, which is only understood insofar that they can be killed by physical means, even if their borderline hallucinatory appearance might convince one otherwise.
+Cantors are bizarre aberrations that, by processes not well ascertained, emerge from areas soaked in particular forms of corrupting arcane energy. Although their amorphous forms can spontaneously resemble that of the incorporeal undead in that their flesh appears to undulate, shift in and out of translucence, and at times defy gravity, they are indeed composed of biological material, which is only apparent insofar that they can be killed by physical means, even if their borderline hallucinatory appearance might convince one otherwise.
 
 Cantors are more dissimilar to each other than alike, and throughout the annals of dæmonology, virtually no entities resembling Cantors have ever been documented. The appearance of Cantors is a wholly recent, and as yet, totally confounding phenomenon.
 
@@ -19,26 +19,39 @@ Cantors are more dissimilar to each other than alike, and throughout the annals 
 ```
 Cantor
 Medium Aberration
-Hit Dice: 3d8+12 (28 hp)
-Initiative:
-Speed:
+Hit Dice: 5d8+30 (55 hp)
+Initiative: +7
+Speed: 30 ft. (6 squares)
 Armor Class: 16 (+3 Dex, +3 natural), touch 14, flat-footed 14
-Base Attack/Grapple: +2/
-Attack:
-Full Attack:
-Special Attacks:
-Special Qualities: Damage Reduction 5/bludgeoning, Darkvision 60ft
+Base Attack/Grapple: +3/+6
+Attack: Claw +6
+Full Attack: 2 claws +6 (1d6+3)
+Special Attacks: Dirge
+Special Qualities: Amorhpous, Damage Reduction 5/bludgeoning, Darkvision 60ft,
+    Shadow Shift, Spider Climb
 Saves: Fort +9, Ref +3, Will +4
-Abilities: Str 14, Dex 16, Con 22, Int 8, Wis 12, Cha 9
-Skills:
-Feats:
+Abilities: Str 16, Dex 16, Con 22, Int 8, Wis 12, Cha 15
+Skills: Hide +8, Listen +13, Move Silently +12, Spot +13
+Feats: Alertness, Combat Reflexes, Improved Initiative
 Languages: N/A
 Environment: Any
 Organization: Solitary
-Challenge Rating: 3
+Challenge Rating: 5
 Treasure: None
+Advancement: 7—9 HD (Large); 10—18 HD (Huge)
 ```
 
 ## Combat
 
+A Cantor uses its special abilities to attain an environmental upper-hand and to incapacitate weaker-willed foes.
 
+* **Amorphous ([Ex](https://www.dandwiki.com/wiki/SRD:Ex#Extraordinary))**: A Cantor is not subject to [critical hits](https://www.dandwiki.com/wiki/SRD:Critical_Hit#Critical_Hits). It cannot be flanked.
+* **Dirge ([Su](https://www.dandwiki.com/wiki/SRD:Su#Supernatural))**: A Cantor internalizes the call-up of its Number Station, which it continues to transmit, even after the station becomes defunct. When confronted, the Cantor vocalizes the call-up as a [free action](https://www.dandwiki.com/wiki/SRD:Free_Actions), which causes one of three effects. Cantors are immune to these [sonic](https://www.dandwiki.com/wiki/SRD:Sonic_Effect) [mind-affecting](https://www.dandwiki.com/wiki/SRD:Mind-Affecting_Effect) attacks. All save DCs for dirge effects are Charisma-based.
+    * _Unnerve_: Anyone within a 30-foot radius automatically takes a –2 penalty on attack and damage rolls. Those forced to hear the dirge for 10 consecutive rounds must succeed on a DC 15 Will save or enter a catatonic state, unable to attack or defend themselves until the dirge stops.
+    * _Fear_: Anyone within a 30-foot radius must succeed a DC 15 Will save or become [panicked](https://www.dandwiki.com/wiki/Panicked) for 2 rounds. A creature that succeeds against cannot be affected by the same effect by the same Cantor for 24 hours.
+    * _Nausea_: Anyone within a 30-foot radius must succeed a 15 Fortitude save or be overcome by nausea and weakness. Affected creatures fall prone and become nauseated for 1d4+1 rounds. A creature that succeeds against cannot be affected by the same effect by the same Cantor for 24 hours.
+* **Shadow Shift ([Su](https://www.dandwiki.com/wiki/SRD:Su#Supernatural))**: A Cantor can manipulate shadows. This ability is effective only in shadowy areas and has three possible effects.
+    * _Obscure Vision_: The Cantor gains concealment (20% miss chance) for 1d4 rounds.
+    * _Dancing Images_: This effect duplicates a [_mirror image_](https://www.dandwiki.com/wiki/Mirror_image) spell (caster level 6th).
+    * _Silent Image_: This effect duplicates a [_silent image_](https://www.dandwiki.com/wiki/Silent_image) spell (DC 15, caster level 6th). The save DC is Charisma-based.
+* **Spider Climb ([Ex](https://www.dandwiki.com/wiki/SRD:Ex#Extraordinary))**: A cantor can climb sheer surfaces as though with the [_spider climb_](https://www.dandwiki.com/wiki/Spider_climb) spell.
