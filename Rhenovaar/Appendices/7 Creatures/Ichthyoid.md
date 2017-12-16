@@ -19,23 +19,23 @@ With great strain, an Icthyoid can contort its physical form back into that of i
 ```
 Ichtyoid
 Medium Aberration
-Hit Dice: 2d8+1 (11 hp)
+Hit Dice: 3d8+1 (19 hp)
 Initiative: +6
 Speed: 30ft
-Armor Class: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-Base Attack/Grapple: +2/+3
-Attack: Claw +3 (1d4+1), Bite +3 (1d6+2)
-Full Attack: 2 Claws +3 (1d4+2), 1 Bite +3 (1d6+2)
+Armor Class: 16 (+3 Dex, +3 natural), touch 12, flat-footed 12
+Base Attack/Grapple: +3/+4
+Attack: Claw +5 (1d4+2), Bite +5 (1d6+2)
+Full Attack: 2 Claws +5 (1d4+2), 1 Bite +5 (1d6+2)
 Special Attacks: Bile, Tentacle
 Special Qualities: Darkvision 60ft, Telepathy 100ft, Spell-like Abilities
 Saves: Fort +1, Ref +3, Will +3
-Abilities: Str 13, Dex 14, Con 12, Int 11, Wis 12, Cha 12
+Abilities: Str 14, Dex 16, Con 12, Int 11, Wis 12, Cha 12
 Skills: Bluff +5, Listen +3, Move Silently +5, Spot +4
 Feats: Improved Initiative
 Language: Common
 Environment: Any
 Organization: Solitary, Cadre (2-4), or Cabal (5-8)
-Challenge Rating: 2
+Challenge Rating: 3
 Treasure: None
 ```
 
