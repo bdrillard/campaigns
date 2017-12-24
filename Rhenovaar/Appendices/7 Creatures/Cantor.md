@@ -10,7 +10,7 @@
 >
 > Georg Cantor: mathematician and developer of set theory.
 
-Cantors are bizarre aberrations that, by processes not well ascertained, emerge from areas soaked in particular forms of corrupting arcane energy. Although their amorphous forms can spontaneously resemble that of the incorporeal undead in that their flesh appears to undulate, shift in and out of translucence, and at times defy gravity, they are indeed composed of biological material, which is only apparent insofar that they can be killed by physical means, even if their borderline hallucinatory appearance might convince one otherwise.
+Cantors are bizarre magical beasts that, by processes not well ascertained, emerge from areas soaked in corrupting arcane energy. Although their amorphous forms can spontaneously resemble that of the incorporeal undead in that their flesh appears to undulate, shift in and out of translucence, and at times defy gravity, they are indeed composed of biological material, which is only apparent insofar that they can be killed by physical means, even if their borderline hallucinatory appearance might convince one otherwise.
 
 Cantors are more dissimilar to each other than alike, and throughout the annals of dæmonology, virtually no entities resembling Cantors have ever been documented. The appearance of Cantors is a wholly recent, and as yet, totally confounding phenomenon.
 
@@ -18,33 +18,34 @@ Cantors are more dissimilar to each other than alike, and throughout the annals 
 
 ```
 Cantor
-Medium Aberration
-Hit Dice: 5d8+30 (55 hp)
+Large Magical Beast
+Hit Dice: 8d10+42 (86 hp)
 Initiative: +7
 Speed: 30 ft. (6 squares)
-Armor Class: 16 (+3 Dex, +3 natural), touch 14, flat-footed 14
-Base Attack/Grapple: +3/+6
-Attack: Claw +6
-Full Attack: 2 claws +6 (1d6+3)
+Armor Class: 19 (—1 size, +2 Dex, +8 natural), touch 11, flat-footed 17
+Base Attack/Grapple: +7/+10
+Attack: Claw +10, Bite +10
+Full Attack: 2 claws +10 (1d6+5), 1 bite +10 (1d8+5)
 Special Attacks: Dirge
-Special Qualities: Amorhpous, Damage Reduction 5/bludgeoning, Darkvision 60ft,
-    Shadow Shift, Spider Climb
-Saves: Fort +9, Ref +3, Will +4
-Abilities: Str 16, Dex 16, Con 22, Int 8, Wis 12, Cha 15
+Special Qualities: Alien Mind, Amorhpous, Damage Reduction 5/bludgeoning,
+    Darkvision 60ft, Shadow Shift, Spider Climb
+Saves: Fort +11, Ref 4+, Will +3
+Abilities: Str 20, Dex 14, Con 22, Int 8, Wis 12, Cha 15
 Skills: Hide +8, Listen +13, Move Silently +12, Spot +13
 Feats: Alertness, Combat Reflexes, Improved Initiative
 Languages: N/A
 Environment: Any
 Organization: Solitary
-Challenge Rating: 5
+Challenge Rating: 7
 Treasure: None
-Advancement: 7—9 HD (Large); 10—18 HD (Huge)
+Advancement: 10—18 HD (Huge)
 ```
 
 ## Combat
 
 A Cantor uses its special abilities to attain an environmental upper-hand and to incapacitate weaker-willed foes.
 
+* **Alien Mind([Ex])(https://www.dandwiki.com/wiki/SRD:Ex#Extraordinary)**: The mind of a Cantor is alien, and therefore is immune to all [mind-affecting](https://www.dandwiki.com/wiki/SRD:Mind-Affecting_Effect) effects.
 * **Amorphous ([Ex](https://www.dandwiki.com/wiki/SRD:Ex#Extraordinary))**: A Cantor is not subject to [critical hits](https://www.dandwiki.com/wiki/SRD:Critical_Hit#Critical_Hits). It cannot be flanked.
 * **Dirge ([Su](https://www.dandwiki.com/wiki/SRD:Su#Supernatural))**: A Cantor internalizes the call-up of its Number Station, which it continues to transmit, even after the station becomes defunct. When confronted, the Cantor vocalizes the call-up as a [free action](https://www.dandwiki.com/wiki/SRD:Free_Actions), which causes one of three effects. Cantors are immune to these [sonic](https://www.dandwiki.com/wiki/SRD:Sonic_Effect) [mind-affecting](https://www.dandwiki.com/wiki/SRD:Mind-Affecting_Effect) attacks. All save DCs for dirge effects are Charisma-based.
     * _Unnerve_: Anyone within a 30-foot radius automatically takes a –2 penalty on attack and damage rolls. Those forced to hear the dirge for 10 consecutive rounds must succeed on a DC 15 Will save or enter a catatonic state, unable to attack or defend themselves until the dirge stops.
